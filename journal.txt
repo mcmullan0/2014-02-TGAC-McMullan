@@ -1,8 +1,8 @@
-Authors: Mark
-Title: A great paper that wont get far
+Authors: Mark, Anna
+Title: A great paper that will now apparently get far
 
 Introduction: Some stuff
-Data: none yet
+Data: I should have some data by now...
 
 Analysis:
 Conclusion: There are no conclusions
