@@ -1,9 +1,11 @@
-Authors: Mark, John, Anna, MM wrote this
+Authors:Florain, Mark, John, Anna, MM wrote this
 Title: A great paper that will now apparently get far
 
 Introduction: This is getting better all the time
-Data: I should have some data by now...
+Data: Where is the bloody data.
 
-Analysis:[Note: John still has some more analysis]
+Analysis:[Note: Mark still has some more analysis to do]
 Conclusion: This conclusions are good.
 
+Some stuff FJ added:
+FJ did a lot. Mark did also something. And brought a lot of beer.
