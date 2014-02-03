@@ -1,9 +1,9 @@
-Authors: Mark
+Authors: Mark, John
 Title: A great paper that wont get far
 
 Introduction: Some stuff
 Data: none yet
 
-Analysis:
+Analysis:[Note: John still has some more analysis]
 Conclusion: There are no conclusions
 
