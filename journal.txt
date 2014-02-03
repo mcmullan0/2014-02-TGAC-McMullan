@@ -1,9 +1,10 @@
-Authors: Mark, John, Anna
-Title: A great paper that will now apparently get far
+Authors: Florian, Mark, John, Anna
+Title: A great paper that will now apparently get far better
 
 Introduction: Some stuff
-Data: I should have some data by now...
+Data: Where is the bloody data. 
 
-Analysis:[Note: John still has some more analysis]
+Analysis:[Note: Mark still has some more analysis to do]
 Conclusion: There are no conclusions
 
+Authors Contributions: FJ did a lot. Mark did also something. And brought a lot of beer.
