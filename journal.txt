@@ -1,8 +1,9 @@
-Authors:
-Title:
+Authors: Mark
+Title: A great paper that wont get far
 
-Introduction:
-Data:
-ANalysis:
+Introduction: Some stuff
+Data: none yet
+
+Analysis:
 Conclusion:
 
