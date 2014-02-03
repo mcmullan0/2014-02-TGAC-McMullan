@@ -1,9 +1,9 @@
-Authors: Mark, Anna
+Authors: Mark, John, Anna
 Title: A great paper that will now apparently get far
 
 Introduction: Some stuff
 Data: I should have some data by now...
 
-Analysis:
+Analysis:[Note: John still has some more analysis]
 Conclusion: There are no conclusions
 
