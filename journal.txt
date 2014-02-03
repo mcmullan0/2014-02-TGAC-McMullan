@@ -5,5 +5,5 @@ Introduction: Some stuff
 Data: none yet
 
 Analysis:
-Conclusion:
+Conclusion: There are no conclusions
 
